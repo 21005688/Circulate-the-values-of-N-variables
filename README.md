@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1: 
 import the numpy module to use the built- in functions for caculation
 ### Step 2:
-prepare the lists from each circulate the values and assign in np.array() 
+Prepare the lists from each circulate the values and assign in np.array() 
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
@@ -32,4 +32,4 @@ def circulate():
 ![output](.//CC.PNG)
 
 ## Result:
-the the solutions for the circulate the value of N values are successfully solved using the python program
+Thus circulating the n variables using python are successfully executed.
