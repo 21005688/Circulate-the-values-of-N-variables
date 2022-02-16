@@ -19,8 +19,8 @@ End the program
 ## Program:
 ~~~
 #Program to circulate N values.
-#Developed by: deepika.j
-#RegisterNumber: 21005688
+#Developed by: Gayathri A
+#RegisterNumber: 21500440
 def circulate(): 
     X = [10,20,30,40,50,60]
     n=int(input())
@@ -29,7 +29,7 @@ def circulate():
 ~~~
 
 ## Output:
-![output](.//C1.PNG)
+![output](https://github.com/21005688/Circulate-the-values-of-N-variables/blob/main/kd%20gayu.jpg?raw=true)
 
 ## Result:
 Thus circulating the n variables using python are successfully executed.
